@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="container">
       <Navbar bg="light" fixed="bottom" variant="light">
         <Navbar.Brand href="#home" text-align="center">
-          Tanmay Sarker
+          Umar Arshad
         </Navbar.Brand>
         <nav className="mr-auto"></nav>
       </Navbar>
