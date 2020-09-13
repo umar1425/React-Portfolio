@@ -15,16 +15,16 @@ const About = () => {
   return (
     <Jumbotron>
       <h1>Welcome!</h1>
-      <img style={styles.img} src={myImg} className="card-img" alt="Tanmay Sarker" />
+      <img style={styles.img} src={myImg} className="card-img" alt="Umar Arshad" />
       <p>Hey everybody! Take a look around my page to explore more.</p>
       <p>
         <Button
           variant="primary"
-          href="linkedin.com/in/tanmay-sarker-695754178"
+          href="https://www.linkedin.com/in/umar-arshad-665505146/"
         >
           Linkedin
         </Button>
-        <Button variant="primary" href="https://github.com/tsarker921">
+        <Button variant="primary" href="https://github.com/umar1425">
           Github
         </Button>
       </p>
