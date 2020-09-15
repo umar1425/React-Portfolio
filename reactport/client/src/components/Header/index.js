@@ -7,7 +7,7 @@ const Header = () => {
     <div>
       <Navbar bg="dark" variant="dark">
         <NavLink path="/" classes={["navbar-brand"]}>
-          Umar 
+          Tanmay 
         </NavLink>
 
         <nav className="ml-auto">
