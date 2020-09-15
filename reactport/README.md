@@ -25,4 +25,4 @@ working browser
 - React
 
 ## Contributers
-Tanmay Sarker
+Umar Arshad
